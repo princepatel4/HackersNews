@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1047216519764",
+    "firebase_url": "https://hackersnews-745d8.firebaseio.com",
+    "project_id": "hackersnews-745d8",
+    "storage_bucket": "hackersnews-745d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047216519764:android:40116df7fa28e7c3",
+        "android_client_info": {
+          "package_name": "com.hackersnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047216519764-pme4s1kgra9422nu43f1d7m2u51gtvco.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1047216519764-pme4s1kgra9422nu43f1d7m2u51gtvco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxCDjvbXNsofkPVhR8ieiaPTZuj5H7xTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
